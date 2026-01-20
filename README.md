@@ -27,20 +27,4 @@
 - 🚀 Student & academic projects  
 - 🚀 Practice applications & coursework  
 
----
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurabsapkota&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurabsapkota&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-"""
-
-open("README.md","w",encoding="utf-8").write(gen())
