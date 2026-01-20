@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi 👋 I'm Gaurab Sapkota
+
+🎓 Computer Science Student  
+💻 Learning Software Development  
+🚀 Building projects in C#, Java, Web & IoT  
+
+⭐ Exploring code, learning every day, and improving step by step.
+
 
 <!--
 **gaurabsapkota939/gaurabsapkota939** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
